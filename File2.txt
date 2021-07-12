@@ -1,10 +1,6 @@
-111222фывйцуй
+git111222фывйцуй
 
 789.
 
 git fetch- pull test
 ho ho ha ha
-Add line
-test
-
-commit test
