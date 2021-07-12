@@ -1,1 +1,1 @@
-ConsoleWriteLine:"Hello World";
+ConsoleWriteLine("Hello World");
